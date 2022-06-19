@@ -9,8 +9,6 @@
 
 
 
-I have developed the following apps as portfolios.
-
 AppName: TRIMO.
 
 ![スクリーンショット 2022-06-02 23 18 41](https://user-images.githubusercontent.com/91307335/171650695-d563a737-190f-4786-bb9f-0df1e9191f5a.png)
