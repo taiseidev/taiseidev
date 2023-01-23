@@ -6,8 +6,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=taiseidev&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-
-
+MyPackage: simple_hashtag
+https://pub.dev/packages/simple_hashtag
 
 AppName: TRIMO.
 
